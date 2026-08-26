@@ -1,1 +1,1 @@
-# abriga os vários tipos de teste que faço.
+abriga os vários tipos de teste que faço.
